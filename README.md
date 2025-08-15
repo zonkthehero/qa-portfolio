@@ -17,7 +17,8 @@
 
 ### 2. [Задачи из курса «Автоматизация тестирования с помощью Selenium и Python»](https://github.com/zonkthehero/autotesting/tree/main/selenium_course)  
 - Прошёл курс на Stepik на 88% ([сертификат](https://stepik.org/cert/2931946))
-- Решал задачи на автоматизацию UI-тестов
+- Решал задачи на автоматизацию UI-тестов, используя Selenium
+- Применял Page Object Model для [дизайна более сложных тестов](https://github.com/zonkthehero/final_task_stepik)
 
 ## Навыки  
 
