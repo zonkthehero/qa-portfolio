@@ -30,4 +30,4 @@
 
 ## Цели
 
-Развиваюсь в роли Junior+ QA с фокусом на автоматизацию. Хочу выйти на уровень Middle Fullstack QA, применяя Python, Selenium, CI/CD.
+Развиваюсь в роли QA-инженера с фокусом на автоматизацию. Хочу выйти на уровень Middle Fullstack QA, применяя Python, Selenium (рассматриваю изучение Playwright + JS).
