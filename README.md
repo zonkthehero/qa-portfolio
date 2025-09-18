@@ -29,9 +29,9 @@
 - **Ручное тестирование**: UI, функциональное, регрессионное, исследовательское
 - **Автоматизация**: Python, pytest, Selenium (учебные проекты)
 - **API**: Postman, requests
-- **Инструменты**: Jira, Git, Jenkins, SQL (SELECT, JOIN), DevTools
+- **Инструменты**: Jira, Git, Jenkins, SQL (SELECT, JOIN), DevTools, VS Code
 - **Документация**: тест-кейсы, чек-листы, баг-репорты, Markdown
 
 ## Цели
 
-Развиваюсь в роли QA-инженера с фокусом на автоматизацию. Хочу выйти на уровень Middle Fullstack QA, применяя Python, Selenium (рассматриваю изучение Playwright + JS).
+Развиваюсь в роли QA-инженера с фокусом на автоматизацию. Хочу выйти на уровень Middle Fullstack QA, применяя Python, Selenium (рассматриваю изучение TypeScript/JavaScript/Go).
